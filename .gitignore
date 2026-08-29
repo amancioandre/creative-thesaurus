@@ -1,0 +1,7 @@
+node_modules/
+main.js
+coverage/
+.vault/
+*.log
+docs/.vitepress/cache/
+docs/.vitepress/dist/
