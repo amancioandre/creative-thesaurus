@@ -66,6 +66,10 @@ Desktop only; editing mode (Source and Live Preview).
 
 Datamuse receives the word or phrase you look up and nothing else. The local model receives the same, through the Ollama address you configure (default `localhost`). No other network requests. History and cached answers are JSON files in the plugin folder (or, if you choose, a Markdown note in the vault).
 
+## Support
+
+Bug reports and ideas: [GitHub issues](https://github.com/amancioandre/creative-thesaurus/issues). Two minutes on how it is going for you: [the feedback form](https://tally.so/r/obJ6AN). News of the Creative Suite, roughly one letter per release: [the newsletter on Substack](https://andramnc.substack.com).
+
 ## Contributing
 
 Build, test and the Clean Architecture layout are in [docs/development](docs/development/architecture.md). Short version: `npm install && npm run build`, `npm test`. Live tests against the real services: `npm run test:live`.
